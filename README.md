@@ -1,1 +1,1 @@
-# Coastal-Hardening
+# This repository contains base data, supporting information and R code used/generated for development of the manuscript 'A global model to forecast coastal hardening and support mitigation of socioecological risks'. 
